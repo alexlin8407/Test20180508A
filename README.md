@@ -8,5 +8,5 @@ foo | foo  | foo
 bar | bar  | bar 
 baz | baz  | baz
 
-我们我们
+我们我们  
 我们我们
