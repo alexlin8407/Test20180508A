@@ -17,3 +17,6 @@ baz | baz  | baz
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 [![foryou]][csdn]
+
+[csdn]:www.google.com
+
